@@ -5,9 +5,11 @@
 <p align='left'><h3><b>Repositório de:</b> Jonas B. Franco | @jonasbfranco<br></h3></b></p>
 <b>Email:</b> <a href='mailto:jonasbfranco@gmail.com'>jonasbfranco@gmail.com</a><br>
 <b>Site:</b> <a href='https://projeto2.netlify.com/'>Navegar no site deste projeto</a></p>
-<br>
 
-![Print of Site](https://github.com/jonasbfranco/login/blob/master/1.png?raw=true)
+![Projeto](https://github.com/jonasbfranco/login/blob/master/22.jpg?raw=true)
+
+![Site em Smartphone](https://github.com/jonasbfranco/login/blob/master/2.jpg?raw=true)
+
 
 ### Programas utilizados
 > 01&nbsp;&nbsp;&nbsp;=&nbsp;&nbsp;&nbsp;ATOM<br>
